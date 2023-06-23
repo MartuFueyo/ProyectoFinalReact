@@ -1,0 +1,11 @@
+[
+    {"idx":1, "titulo":"Gin", "descripcion":"Tanqueray London Dry Gin 700 ml", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_997062-MLA53264771348_012023-F.webp","Precio":5809, "categoria":"Botellas", "stock":10},
+    {"idx":2, "titulo":"Ron", "descripcion":"Bacardi Blanco Carta Blanca 1 Litro", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_721529-MLA52848891767_122022-F.webp", "Precio":4070, "categoria":"Botellas", "stock":15},
+    {"idx":3, "titulo":"Vodka", "descripcion":"Absolut Clasic Original 750 ml", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_744631-MLA53646495745_022023-F.webp","Precio":6800, "categoria":"Botellas", "stock":20},
+    {"idx":4, "titulo":"Botanico #1", "descripcion":"Cardamomo", "Imagen":"http://www.zeremony.com/wp-content/uploads/2019/03/IMG_7408.jpg","Precio":400, "categoria":"Botanicos", "stock":80},
+    {"idx":5, "titulo":"Botanico #2", "descripcion":"Cinco Pimientas", "Imagen":"http://www.zeremony.com/wp-content/uploads/2019/03/IMG_7405.jpg","Precio":400, "categoria":"Botanicos", "stock":80},
+    {"idx":6, "titulo":"Botanico #3", "descripcion":"Pimienta de Jamaica", "Imagen":"http://www.zeremony.com/wp-content/uploads/2019/03/IMG_7404.jpg","Precio":400, "categoria":"Botanicos", "stock":80},
+    {"idx":7, "titulo":"Box Botanics", "descripcion":"Colección de Botanicos", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_624854-MLA46221176513_052021-F.webp","Precio":12900, "categoria":"Box", "stock":9},
+    {"idx":8, "titulo":"Box Premium", "descripcion":"1 Gin + Copa + Botanicos + Heramientas", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_788252-MLA53072895956_122022-F.webp","Precio":19900, "categoria":"Box", "stock":5},
+    {"idx":9, "titulo":"Box Bartender", "descripcion":"Herramientas de Bartender", "Imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_727638-MLA53371793147_012023-F.webp","Precio":7000, "categoria":"Box", "stock":12}
+]

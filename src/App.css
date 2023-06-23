@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+header, h1 {
+  font-family:'Major Mono Display', monospace;
+  color: azure;
+  font-size: 5em;
+}
+
+.btn {
+  color:white;
+}
